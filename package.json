@@ -1,0 +1,22 @@
+{
+  "name": "strawpolljs",
+  "version": "1.0.0",
+  "description": "Strawpoll API Client for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickaelftw/StrawpollJS.git"
+  },
+  "author": "Mickaelftw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickaelftw/StrawpollJS/issues"
+  },
+  "homepage": "https://github.com/mickaelftw/StrawpollJS#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
